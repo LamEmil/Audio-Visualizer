@@ -50,7 +50,7 @@ This Python script generates customizable audio visualizer videos from an audio 
 1.  Navigate to the directory where you saved the script using your terminal or command prompt.
 2.  Run the script using Python:
     ```bash
-    python gen.py
+    python Audio-Visualizer.py
     ```
 3.  The "Audio Visualizer Exporter" GUI window will appear.
 
